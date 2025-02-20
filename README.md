@@ -1,0 +1,1 @@
+PLOT-A-THON event is a data visualization event where participants would receive an uncleaned dataset and they should preprocess, clean and create visuals based on the logical questions that are provided in the pdf formate .
